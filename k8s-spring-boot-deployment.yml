@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: springboot
-          image: ynieves/kubernetes:jhooq-k8s-springboot
+          image: ynieves/jhooq-docker-demo:jhooq-docker-demo
 
           resources:
             requests:
